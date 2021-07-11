@@ -1,2 +1,2 @@
-# RealExchange
-Prototype of some project
+# CryptoConventer
+my 1st project in Vue dont hate plz
